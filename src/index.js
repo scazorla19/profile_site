@@ -7,7 +7,7 @@ import "assets/css/bootstrap.min.css";
 import "assets/scss/paper-kit.scss";
 import "assets/demo/demo.css";
 // pages
-import App from "views/App";
+import IndexPage from "views/pages/IndexPage";
 import ProjectsPage from "views/pages/ProjectsPage";
 import ProfilePage from "views/pages/ProfilePage";
 import ContactPage from "views/pages/ContactPage";
@@ -19,7 +19,7 @@ ReactDOM.render(
     <Switch>
       <Route 
         path="/index" 
-        render={props => <App {...props} />} 
+        render={props => <IndexPage {...props} />} 
       />
       <Route
         path="/projects"

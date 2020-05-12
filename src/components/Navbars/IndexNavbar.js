@@ -95,7 +95,7 @@ function IndexNavbar() {
             <NavItem>
               <NavLink 
                 tag={RRLink} 
-                exact to="/coming-soon" 
+                exact to="/contact-me" 
                 title="Go to Contact Me page"
               >
                 <i className="nc-icon nc-email-85" />

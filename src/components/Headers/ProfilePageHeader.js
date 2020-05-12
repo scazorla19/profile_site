@@ -26,7 +26,7 @@ const ProfilePageHeader = () => {
       <div
         style={{
           backgroundImage:
-            "url(" + require("assets/img/croatia_family.png") + ")"
+            "url(" + require("assets/img/croatia_family.jpg") + ")"
         }}
         className="page-header page-header-xs"
         data-parallax={true}
