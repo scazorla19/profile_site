@@ -57,8 +57,8 @@ function ProfilePage() {
             <Col className="ml-auto mr-auto text-center" md="6">
               <p>
               Accomplished Systems Engineer, skilled in system administration, 
-              technical support and fluent in Japanese. 
-              Striving to build a career in software development, specializing in DevOps.
+              technical technical troubleshooting and customer support.
+              Striving to build a career around cloud technology, specializing in DevOps.
               </p>
             </Col>
           </Row>
@@ -98,43 +98,35 @@ function ProfilePage() {
                     <li>
                       <Row>
                         <Col className="ml-auto mr-auto" md="10">
-                          <p>System administration for Linux (Ubuntu/RHEL) and Windows Server 
-                          operating systems</p>
+                          <p>System administration for Linux (Ubuntu/RHEL) and Windows Servers</p>
                         </Col>                                              
                       </Row>
                     </li>                  
                     <li>
                       <Row>
                         <Col className="ml-auto mr-auto" md="10">
-                          <p>Developing automation scripts in Python, Bash and Powershell</p>
-                        </Col>
-                      </Row>
-                    </li>                    
-                    <li>
-                      <Row>
-                        <Col className="ml-auto mr-auto" md="10">
-                          <p>CI/CD pipelines</p>
+                          <p>Various web tech stacks</p>
                         </Col>
                       </Row>
                     </li>
                     <li>
                       <Row>
                         <Col className="ml-auto mr-auto" md="10">
-                          <p>AWS services including VPC, EC2, S3, OpsWorks, CloudFormation</p>
+                          <p>AWS services including VPC, EC2, S3, CloudFront, ELBs</p>
                         </Col>
                       </Row>
                     </li>
                     <li>
                       <Row>
                         <Col className="ml-auto mr-auto" md="10">
-                          <p>Front-end interface development with React</p>
+                          <p>React Framework</p>
                         </Col>
                       </Row>
                     </li>
                     <li>
                       <Row>
                         <Col className="ml-auto mr-auto" md="10">
-                          <p>Web back-end development with NodeJS</p>
+                          <p>Express</p>
                         </Col>
                       </Row>
                     </li>
@@ -156,21 +148,28 @@ function ProfilePage() {
                       <li>
                         <Row>
                           <Col className="ml-auto mr-auto" md="10">
-                            <p>Deploying and configuring web application servers</p>
+                            <p>Providing excellent customer service and experience</p>
                           </Col>                                              
                         </Row>
                       </li>
                       <li>
                         <Row>
                           <Col className="ml-auto mr-auto" md="10">
-                            <p>Technical design consultation, integration and migration to AWS cloud solution</p>
+                            <p>End-to-end API testing</p>
                           </Col>                                              
                         </Row>
                       </li>
                       <li>
                         <Row>
                           <Col className="ml-auto mr-auto" md="10">
-                            <p>Conducting pre-sales demonstrations and technical training</p>
+                            <p>System monitoring, optimization and maintenance</p>
+                          </Col>                                              
+                        </Row>
+                      </li>
+                      <li>
+                        <Row>
+                          <Col className="ml-auto mr-auto" md="10">
+                            <p>CDN configuration and optimization</p>
                           </Col>                                              
                         </Row>
                       </li>

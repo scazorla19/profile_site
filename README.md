@@ -1,2 +1,2 @@
 # profile_site
-My static profile website
+My static profile website powered by React
